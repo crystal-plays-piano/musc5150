@@ -1,0 +1,29 @@
+
+
+\documentclass{article}
+
+% - imports
+\usepackage{enumitem}
+\usepackage[backend=biber]{biblatex-chicago}
+\addbibresource{bibliography.bib}
+\usepackage{url}
+\usepackage{parskip}
+\usepackage{indentfirst}
+\usepackage{parallel}
+
+\title{\vspace*{-72pt} Assignment 3}
+\author{Crystal Mandal}
+\date{Last Edited \today}
+
+\begin{document}
+
+  \maketitle
+
+  \input{assignment/assignment.tex}
+
+
+  \include{song-sheet-wanderer/song-sheet-wanderer.tex}
+  \include{song-sheet-contrabandista/song-sheet-contrabandista}
+\nocite{*}
+\printbibliography
+\end{document}

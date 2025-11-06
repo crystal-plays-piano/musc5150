@@ -1,0 +1,18 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'main.blg'
+[47] biber:342> INFO - === Wed Oct  8, 2025, 14:21:07
+[58] Biber.pm:421> INFO - Reading 'main.bcf'
+[121] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
+[129] Biber.pm:4487> INFO - Processing section 0
+[135] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[136] bibtex.pm:1713> INFO - LaTeX decoding ...
+[137] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[160] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[160] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[160] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[160] Biber.pm:4307> INFO - Sorting list 'cms/global//global/global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[160] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[162] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[162] bbl.pm:779> INFO - Output to main.bbl
+[162] Biber.pm:132> WARN - BibTeX subsystem: /tmp/biber_tmp_anwM/f4d088b3f9f145b5c3058da33afd57d4_600295.utf8, line 13, warning: 309 characters of junk seen at toplevel
+[162] Biber.pm:134> INFO - WARNINGS: 1

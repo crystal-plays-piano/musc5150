@@ -1,0 +1,58 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global/global}
+    \entry{hyperion-notes}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=27da34ea4ca1090fed16d836204e817b}{%
+           family={Vignotes},
+           familyi={V\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27da34ea4ca1090fed16d836204e817b}
+      \strng{fullhash}{27da34ea4ca1090fed16d836204e817b}
+      \strng{fullhashraw}{27da34ea4ca1090fed16d836204e817b}
+      \strng{bibnamehash}{27da34ea4ca1090fed16d836204e817b}
+      \strng{authorbibnamehash}{27da34ea4ca1090fed16d836204e817b}
+      \strng{authornamehash}{27da34ea4ca1090fed16d836204e817b}
+      \strng{authorfullhash}{27da34ea4ca1090fed16d836204e817b}
+      \strng{authorfullhashraw}{27da34ea4ca1090fed16d836204e817b}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{notes on ``Mahler: Songs"}
+      \field{urlday}{16}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA67392
+      \endverb
+      \verb{url}
+      \verb https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA67392
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

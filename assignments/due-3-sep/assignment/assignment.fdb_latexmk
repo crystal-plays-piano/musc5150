@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1756781498.96659 "assignment.tex" "assignment.pdf" "assignment" 1756781499.3529 2
+  "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1749313668 42213 4e2ca030e8e2640502016e9e45868dcb ""
+  "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1752323509 3605140 1cfe1e8c5f58c3e41caf0e1c5b1c59c8 ""
+  "/usr/local/texlive/2025/texmf.cnf" 1750603989.41909 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "assignment.aux" 1756780191.96792 41 8d28c920b3eded38b05c87a4cad04e86 "pdflatex"
+  "assignment.tex" 1756781498.20784 1408 918a6fea2e0f4e8fa75925e5bf19d5fb ""
+  (generated)
+  "assignment.aux"
+  "assignment.log"
+  "assignment.pdf"
+  (rewritten before read)
