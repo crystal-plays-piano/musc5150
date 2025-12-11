@@ -1,0 +1,117 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2025.5.13)  10 DEC 2025 14:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**low-voice-recital
+(./low-voice-recital.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/base/a
+rticle.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/base/s
+ize12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen146
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/setspa
+ce/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/tools/
+indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/parski
+p/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/kvopti
+ons/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/graphi
+cs/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/generic/ltxc
+mds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/kvsetk
+eys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/etoolb
+ox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count280
+))
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/l3back
+end/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count281
+) (./low-voice-recital.aux)
+\openout1 = `low-voice-recital.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+
+
+[1
+
+{/data/data/com.termux/files/usr/share/texlive/2025/texmf-var/fonts/map/pdftex/
+updmap/pdftex.map}] (./low-voice-recital.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1229 strings out of 469608
+ 21972 string characters out of 5456532
+ 425183 words of memory out of 5000000
+ 28110 multiletter control sequences out of 15000+600000
+ 628335 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,65p,506b,193s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></data/data/com.termux/files/usr/share/texlive/2025/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on low-voice-recital.pdf (1 page, 21583 bytes).
+PDF statistics:
+ 18 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

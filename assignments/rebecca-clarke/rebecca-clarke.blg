@@ -1,0 +1,19 @@
+[1] Config.pm:329> INFO - This is Biber 2.22 (beta)
+[1] Config.pm:332> INFO - Logfile is 'rebecca-clarke.blg'
+[122] biber:342> INFO - === Wed Nov 26, 2025, 14:45:43
+[155] Biber.pm:421> INFO - Reading 'rebecca-clarke.bcf'
+[346] Biber.pm:999> INFO - Using all citekeys in bib section 0
+[370] Biber.pm:4487> INFO - Processing section 0
+[386] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[389] bibtex.pm:1713> INFO - LaTeX decoding ...
+[394] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[452] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[452] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[452] Biber.pm:4307> INFO - Sorting list 'cms/global//global/global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[452] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[456] bbl.pm:676> INFO - Writing 'rebecca-clarke.bbl' with encoding 'UTF-8'
+[458] bbl.pm:779> INFO - Output to rebecca-clarke.bbl
+[458] Biber.pm:132> WARN - BibTeX subsystem: /data/data/com.termux/files/usr/tmp/biber_tmp_XcdY/f4d088b3f9f145b5c3058da33afd57d4_23330.utf8, line 2, warning: 54 characters of junk seen at toplevel
+[458] Biber.pm:132> WARN - BibTeX subsystem: /data/data/com.termux/files/usr/tmp/biber_tmp_XcdY/f4d088b3f9f145b5c3058da33afd57d4_23330.utf8, line 73, warning: 1817 characters of junk seen at toplevel
+[459] Biber.pm:134> INFO - WARNINGS: 2

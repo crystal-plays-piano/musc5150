@@ -1,0 +1,16 @@
+[1] Config.pm:329> INFO - This is Biber 2.22 (beta)
+[1] Config.pm:332> INFO - Logfile is 'american-3.blg'
+[129] biber:342> INFO - === Wed Nov 19, 2025, 16:11:24
+[155] Biber.pm:421> INFO - Reading 'american-3.bcf'
+[347] Biber.pm:999> INFO - Using all citekeys in bib section 0
+[370] Biber.pm:4487> INFO - Processing section 0
+[382] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[386] bibtex.pm:1713> INFO - LaTeX decoding ...
+[391] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[451] Biber.pm:4307> INFO - Sorting list 'cms/global//global/global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[451] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[462] bbl.pm:676> INFO - Writing 'american-3.bbl' with encoding 'UTF-8'
+[464] bbl.pm:779> INFO - Output to american-3.bbl
