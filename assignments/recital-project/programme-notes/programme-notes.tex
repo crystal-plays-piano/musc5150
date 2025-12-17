@@ -1,72 +1,52 @@
 \documentclass[8pt,letterpaper]{article}
-
 % - default packages
-
 % - \usepackage[backend=biber,style=apa]{biblatex}
 % \usepackage[doublespacing]{setspace}
 \usepackage{indentfirst}
 \usepackage{parskip}
+\usepackage[top=2cm,bottom=2cm,left=2cm,right=2cm]{geometry}
+\usepackage{multicol}
+\usepackage{etoolbox}
+\setlength{\columnsep}{8ex}
+\setlength{\columnseprule}{1pt}
 
+\usepackage{csquotes}
 % - \addbibresource{../bibliography.bib}
 
 \title{\vspace*{-72pt}Programme Notes}
 \author{Crystal Mandal}
-\date{Last Edited \today}
+\date{}
 
 \begin{document}
 
 \maketitle
 
-\section*{\textbf{3 Browning Songs} - Amy Beach}
+\input{partials/browning-songs.tex}
 
-\textbf{The Year's at the Spring}\\
+\clearpage{}
 
-The year’s at the spring,\\
-And day’s at the morn;\\
-Morning’s at seven;\\
-The hill-side’s dew-pearl’d;\\
-The lark’s on the wing;\\
-The snail’s on the thorn;\\
-God’s in His heaven–\\
-All’s right with the world!\\
+\input{partials/spring.tex}
 
-\textbf{Ah, Love, but a day}\\
+\clearpage{}
 
-Ah, Love, but a day,\\
-And the world has changed!\\
-The sun’s away,\\
-And the bird estranged;\\
-The wind has dropped,\\
-And the sky’s deranged;\\
-Summer has stopped.\\
+\input{partials/orchard.tex}
 
-Look in my eyes!\\
-Wilt thou change too?\\
-Should I fear surprise?\\
-Shall I find aught new\\
-In the old and dear,\\
-In the good and true,\\
-With the changing year?\\
+\clearpage{}
 
-Thou art a man,\\
-But I am thy love.\\
-For the lake, its swan;\\
-For the dell, its dove;\\
-And for thee — (oh, haste!)\\
-Me, to bend above,\\
-Me, to hold embraced.\\
+\input{partials/liederkreis.tex}
 
-\textit{Beach only set the first two stanzas in her song.}
+\clearpage{}
 
-\textbf{I Send My Heart Up To Thee}\\
+\input{partials/chanson.tex}
 
-I send my heart up to thee, all my heart\\
-In this my singing,\\
-For the stars help me, and the sea, and the sea bears part;\\
-The very night is clinging\\
-Closer to Venice’ streets to leave on space\\
-Above me, whence thy face\\
-May light my joyous heart to thee, to thee its dwelling place.\\
+\clearpage{}
+
+\input{partials/lilacs.tex}
+
+\clearpage{}
+
+\input{partials/ades.tex}
+
 % - \nocite{*}
 
 % - \printbibliography
